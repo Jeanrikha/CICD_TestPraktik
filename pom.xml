@@ -11,13 +11,11 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
             <version>4.0.1</version>
         </dependency>
-        <!-- Tambahkan dependencies lainnya di sini -->
     </dependencies>
 </project>
