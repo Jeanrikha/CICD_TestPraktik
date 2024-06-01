@@ -12,3 +12,10 @@
         <exec.mainClass>com.mycompany.tp_mod3_1302210004.TP_Mod3_1302210004</exec.mainClass>
     </properties>
 </project>
+<dependencies>
+    <dependency>
+        <groupId>redis.clients</groupId>
+        <artifactId>jedis</artifactId>
+        <version>4.0.1</version>
+    </dependency>
+</dependencies>
